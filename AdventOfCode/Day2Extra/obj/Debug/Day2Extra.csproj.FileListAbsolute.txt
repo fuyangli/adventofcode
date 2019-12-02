@@ -1,0 +1,7 @@
+C:\Users\GabrielGuaitolini-BD\source\repos\adventofcode\AdventOfCode\Day2Extra\bin\Debug\Day2Extra.exe.config
+C:\Users\GabrielGuaitolini-BD\source\repos\adventofcode\AdventOfCode\Day2Extra\bin\Debug\Day2Extra.exe
+C:\Users\GabrielGuaitolini-BD\source\repos\adventofcode\AdventOfCode\Day2Extra\bin\Debug\Day2Extra.pdb
+C:\Users\GabrielGuaitolini-BD\source\repos\adventofcode\AdventOfCode\Day2Extra\obj\Debug\Day2Extra.csprojAssemblyReference.cache
+C:\Users\GabrielGuaitolini-BD\source\repos\adventofcode\AdventOfCode\Day2Extra\obj\Debug\Day2Extra.exe
+C:\Users\GabrielGuaitolini-BD\source\repos\adventofcode\AdventOfCode\Day2Extra\obj\Debug\Day2Extra.pdb
+C:\Users\GabrielGuaitolini-BD\source\repos\adventofcode\AdventOfCode\Day2Extra\bin\Debug\input.txt
